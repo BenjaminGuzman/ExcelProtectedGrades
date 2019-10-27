@@ -1,0 +1,1 @@
+# VBA Application to hide user data in excel## File structure## User manual restrictions- Place all students ID in the first column (A)- All columns except A must contain numeric values (excluding headers and empty cells obviously)
