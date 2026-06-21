@@ -1,5 +1,9 @@
 # Inicio
 
+[![Ver video explicativo](https://github.com/BenjaminGuzman/ExcelProtectedGrades/raw/refs/heads/master/instructivo.mp4)](https://github.com/BenjaminGuzman/ExcelProtectedGrades/raw/refs/heads/master/instructivo.mp4)
+
+Excel protected grades using VBA macros with AES symmetric encryption
+
 Al ingresar le pedirá su identificación, si desea consultar la información de un alumno cuya matrícula está en el documento, ingrésela.
 
 Si desea modificar el documento, ingrese su contraseña de administración del programa. Esta contraseña se deberá encontrar en un archivo de texto plano de nombre `exceles.txt` adentro de la carpeta de su usuario, `C:\Users\<su nombre de usuario>\exceles.txt`. La contraseña deberá estar escrita en una sola línea.
